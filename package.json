@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "moment": "2.3.x",
     "node-static": "^0.7.10",
