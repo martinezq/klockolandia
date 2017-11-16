@@ -3,8 +3,8 @@
     "url": "/",
     "name": "Klockolandia",
     "owner": "Klockolandia",
-    "description": "Klocki dla kaźdego dzieciaka",
-    "img": "images/logo.png"
+    "description": "Klocki dla każdego dzieciaka",
+    "img": "/images/logo.png"
   },
   "plugins": [
     "./plugins/paginator.coffee"

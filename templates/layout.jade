@@ -1,7 +1,7 @@
 doctype html
 block vars
   - var bodyclass = null;
-html(lang='en')
+html(lang='pl')
   head
     block head
       meta(charset='utf-8')
@@ -19,6 +19,7 @@ html(lang='en')
         block header
           div.logo
             img(src=locals.img)
+          div.title
             h1
               a(href=locals.url)= locals.name
             p.description= locals.description
@@ -33,6 +34,6 @@ html(lang='en')
           section.about
             !=contents['about.md'].html
           section.copy
-            p &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; powered by&nbsp;
+            p &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; strona wykonana przy wykorzystaniu&nbsp;
               a(href='https://github.com/jnordberg/wintersmith') Wintersmith
               //- please leave the "powered by" if you use the design
