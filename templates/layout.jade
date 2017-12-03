@@ -23,7 +23,10 @@ html(lang='pl')
             h1
               a(href=locals.url)= locals.name
             p.description= locals.description
-
+    div#navigation
+      div.content-wrap
+        for nav in locals.navs
+          a.menu(href=nav.url)= nav.title
     div#content
       div.content-wrap
         block content

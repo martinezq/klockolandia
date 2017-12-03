@@ -3,8 +3,21 @@
     "url": "/",
     "name": "Klockolandia",
     "owner": "Klockolandia",
-    "description": "Klocki dla każdego dzieciaka",
-    "img": "/images/logo.png"
+    "description": "Zapraszamy do aktywnej i twórczej zabawy!",
+    "img": "/images/logo.png",
+    "navs": [{
+      "url": "/",
+      "title": "Strona główna"
+    }, {
+      "url": "/articles/dokumenty",
+      "title": "Dokumenty"
+    }, {
+      "url": "/articles/cennik",
+      "title": "Cennik"
+    }, {
+      "url": "/articles/kontakt",
+      "title": "Kontakt"
+    }]
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -22,6 +35,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 3
+    "perPage": 5
   }
 }

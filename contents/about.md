@@ -2,4 +2,8 @@
 view: none
 ---
 
-Klockolandia to wspaniałe miejsce zabawy klockami. Zapraszamy wszystkie dzieciaki z Rybnika i okolic.
+Zapraszamy do aktywnej i twórczej zabawy dzieci od 6 roku życia. 
+
+Popołudniowe zajęcia w ok. 10-osobowych grupach. Zajęcia raz w tygodniu po 2 godziny (120 minut). 
+
+Możliwość wyboru grupy w zależności od dnia tygodnia - od poniedziałku do czwartku.

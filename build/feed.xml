@@ -4,19 +4,100 @@
     <title>Klockolandia</title>
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
-    <description>Klocki dla każdego dzieciaka</description>
-    <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+    <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
+    <pubDate>Sun, 03 Dec 2017 19:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Zapisy otwarte</title>
+      <link>//articles/zapisy/</link>
+      <pubDate>Sun, 03 Dec 2017 19:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/zapisy/</guid>
+      <author></author>
+      <description>&lt;p&gt;Mamy przyjemność ogłosić, że począwszy od dziś istnieje możliwość zapisywania dzieci w wieku od 6 lat na nasze zajęcia!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu - lego, klocki bamp, “wafle”, klocki “cegły” czy klocki “build and play” oraz inne atrakcje.
+Zajęcia w KLOCKOLANDII odbywają się w grupach, raz w tygodniu, w godzinach 16.00 – 18.00. 
+2 godziny (120 minut) w wybranym przez rodzica dniu tygodnia - od poniedziałku do czwartku.
+W piątki oferujemy możliwość wynajęcia salki na urodzinki ￼:)&lt;/p&gt;
+&lt;h4 id=&quot;uwaga&quot;&gt;Uwaga&lt;/h4&gt;
+&lt;p&gt;U nas nie podpisujesz umowy.&lt;/p&gt;
+&lt;p&gt;Możesz wykupić karnet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;półroczny&lt;/li&gt;
+&lt;li&gt;trzymiesięczny &lt;/li&gt;
+&lt;li&gt;indywidualny karnet miesięczny&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dodatkowe informacje znajdziesz w &lt;a href=&quot;/articles/cennik&quot;&gt;naszym cenniku&lt;/a&gt; oraz &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Witamy w Klockolandii!</title>
       <link>//articles/witamy/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <pubDate>Sun, 03 Dec 2017 15:00:00 +0100</pubDate>
       <guid isPermaLink="true">//articles/witamy/</guid>
       <author></author>
-      <description>&lt;p&gt;Witaj w Klockolandii! Klockolandia to wspaniałe miejsce zabawy klockami dla wszystkich dzieciaków. Wkotce postaramy się przedstawić więcej informacji.&lt;/p&gt;
+      <description>&lt;p&gt;Popołudniowa opieka i zabawa w grupach. 
+Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Strona w trakcie budowy…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/cover6.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Dla dzieci mamy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lego&lt;/li&gt;
+&lt;li&gt;klocki bamp &lt;/li&gt;
+&lt;li&gt;“wafle” &lt;/li&gt;
+&lt;li&gt;klocki “cegły” &lt;/li&gt;
+&lt;li&gt;klocki “build and play” &lt;/li&gt;
+&lt;li&gt;oraz inne atrakcje&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Możliwość wynajęcia salki na urodzinki.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Dokumenty do pobrania</title>
+      <link>//articles/dokumenty/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dokumenty/</guid>
+      <author></author>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Cennik</title>
+      <link>//articles/cennik/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/cennik/</guid>
+      <author></author>
+      <description>&lt;h4 id=&quot;dost-pne-karnety&quot;&gt;Dostępne karnety&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;półroczny (80 zł/miesiąc) 480 zł&lt;/li&gt;
+&lt;li&gt;trzymiesięczny (85 zł/miesiąc) 225 zł&lt;/li&gt;
+&lt;li&gt;indywidualny karnet miesięczny 90zł&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h4&gt;
+&lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
+&lt;p&gt;Więcej informacji znajdziesz w &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>//articles/kontakt/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/kontakt/</guid>
+      <author></author>
+      <description>&lt;h5 id=&quot;adres&quot;&gt;Adres&lt;/h5&gt;
+&lt;p&gt;ul. Grunwaldzka 61
+44-210 Rybnik&lt;/p&gt;
+&lt;h5 id=&quot;telefon&quot;&gt;Telefon&lt;/h5&gt;
+&lt;p&gt;+48 601 595 201&lt;/p&gt;
+&lt;h5 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h5&gt;
+&lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
+&lt;h5 id=&quot;mapa&quot;&gt;Mapa&lt;/h5&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.5426746159837!2d18.51784951571852!3d50.09484867942787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47114f3a482d0565%3A0xf5e2ba306c1dd48e!2sKlockolandia+Rybnik!5e0!3m2!1sen!2spl!4v1512308575819&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
   </channel>

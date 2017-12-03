@@ -2,17 +2,29 @@
 extends layout
 
 block content
-  include author
+  block intro
+    div.intro
+      !=contents['intro.md'].html
   each article in articles
-    article.article.intro
-      header
-        p.date
-          span= moment.utc(article.date).lang('pl').format('DD. MMMM YYYY')
-        h2
-          a(href=article.url)= article.title
-      section.content
-        if article.intro.length > 0
-          != typogr(article.intro).typogrify()
-        if article.hasMore
-          p.more
-            a(href=article.url) Czytaj więcej
+    if article.template === 'article.jade'
+      article.article.intro
+        header
+          p.date
+            span= moment.utc(article.date).lang('pl').format('DD. MMMM YYYY')
+          h2
+            a(href=article.url)= article.title
+        section.content
+          if article.intro.length > 0
+            != typogr(article.intro).typogrify()
+          if article.hasMore
+            p.more
+              a(href=article.url) Czytaj więcej
+
+block prepend footer
+  div.nav
+    if prevPage
+      a(href=prevPage.url) &laquo; Nowsze wpisy
+    else
+      a(href='/archive.html') &laquo; Wszystkie wpisy
+    if nextPage
+      a(href=nextPage.url) Następna strona &raquo;

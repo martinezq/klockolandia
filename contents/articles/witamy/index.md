@@ -1,12 +1,24 @@
 ---
 title: Witamy w Klockolandii!
 author: Klockolandia
-date: 2017-12-01 15:00
+date: 2017-12-03 15:00
 template: article.jade
 ---
 
-Witaj w Klockolandii! Klockolandia to wspaniałe miejsce zabawy klockami dla wszystkich dzieciaków. Wkotce postaramy się przedstawić więcej informacji.
+Popołudniowa opieka i zabawa w grupach. 
+Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.
 
 <span class="more"></span>
 
-Strona w trakcie budowy...
+![](/images/cover6.png)
+
+Dla dzieci mamy:
+
+* lego
+* klocki bamp 
+* "wafle" 
+* klocki "cegły" 
+* klocki "build and play" 
+* oraz inne atrakcje
+
+Możliwość wynajęcia salki na urodzinki.
