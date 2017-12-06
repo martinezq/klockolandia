@@ -1,5 +1,5 @@
 ---
-title: Zapisy otwarte
+title: Zapisy do grup
 author: Klockolandia
 date: 2017-12-03 19:00
 template: article.jade

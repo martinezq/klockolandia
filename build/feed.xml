@@ -31,7 +31,7 @@ telefonicznie. Następnie należy przynieść ze sobą dobry humor i przez godzi
 </description>
     </item>
     <item>
-      <title>Zapisy otwarte</title>
+      <title>Zapisy do grup</title>
       <link>//articles/zapisy/</link>
       <pubDate>Sun, 03 Dec 2017 19:00:00 +0100</pubDate>
       <guid isPermaLink="true">//articles/zapisy/</guid>
@@ -76,6 +76,19 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 </description>
     </item>
     <item>
+      <title>Dokumenty do pobrania</title>
+      <link>//articles/dokumenty/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dokumenty/</guid>
+      <author></author>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Cennik</title>
       <link>//articles/cennik/</link>
       <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
@@ -90,19 +103,6 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 &lt;h4 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h4&gt;
 &lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
 &lt;p&gt;Więcej informacji znajdziesz w &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Dokumenty do pobrania</title>
-      <link>//articles/dokumenty/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/dokumenty/</guid>
-      <author></author>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     <item>
