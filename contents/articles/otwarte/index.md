@@ -22,3 +22,15 @@ telefonicznie. Następnie należy przynieść ze sobą dobry humor i przez godz
 Uwaga! Ilość miejsc ograniczona!!!
 
 ZAPRASZAMY!
+
+##### Email
+
+[klockolandia.rybnik@gmail.com](mailto:klockolandia.rybnik@gmail.com)
+
+##### Facebook
+
+[@klockolandiarybnikpl](https://www.facebook.com/klockolandiarybnikpl/)
+
+##### Telefon
+
++48 601 595 201

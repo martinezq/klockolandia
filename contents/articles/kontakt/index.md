@@ -10,6 +10,14 @@ template: page.jade
 ul. Grunwaldzka 61
 44-210 Rybnik
 
+##### Email
+
+[klockolandia.rybnik@gmail.com](mailto:klockolandia.rybnik@gmail.com)
+
+##### Facebook
+
+[@klockolandiarybnikpl](https://www.facebook.com/klockolandiarybnikpl/)
+
 ##### Telefon
 
 +48 601 595 201
