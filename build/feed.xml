@@ -115,19 +115,6 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 </description>
     </item>
     <item>
-      <title>Dokumenty do pobrania</title>
-      <link>//articles/dokumenty/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/dokumenty/</guid>
-      <author></author>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>Kontakt</title>
       <link>//articles/kontakt/</link>
       <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
@@ -146,6 +133,19 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 &lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
 &lt;h5 id=&quot;mapa&quot;&gt;Mapa&lt;/h5&gt;
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.5426746159837!2d18.51784951571852!3d50.09484867942787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47114f3a482d0565%3A0xf5e2ba306c1dd48e!2sKlockolandia+Rybnik!5e0!3m2!1sen!2spl!4v1512308575819&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    <item>
+      <title>Dokumenty do pobrania</title>
+      <link>//articles/dokumenty/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dokumenty/</guid>
+      <author></author>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>

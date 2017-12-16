@@ -7,7 +7,7 @@
     "img": "/images/logo.png",
     "navs": [{
       "url": "/",
-      "title": "Strona główna"
+      "title": "Start"
     }, {
       "url": "/articles/dokumenty",
       "title": "Dokumenty"
