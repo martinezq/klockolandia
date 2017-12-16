@@ -5,9 +5,25 @@
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
-    <pubDate>Wed, 06 Dec 2017 21:00:00 +0100</pubDate>
+    <pubDate>Sat, 16 Dec 2017 21:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Zajęcia przed Świętami</title>
+      <link>//articles/swieta/</link>
+      <pubDate>Sat, 16 Dec 2017 21:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/swieta/</guid>
+      <author></author>
+      <description>&lt;p&gt;Przyprowadź do nas swoje dziecko na fajną zabawę 
+klockami - załatw w tym czasie swoje sprawy!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Tydzień przed świętami to już ostatni czas na przygotowania.
+Może chcesz spokojnie umyć okna, zrobić zakupy lub porządek w domu? &lt;/p&gt;
+&lt;p&gt;Od 18 grudnia do 22 grudnia jesteśmy codziennie otwarci od 16.00 - 18.00
+Możesz BEZ ZAPISYWANIA przyprowadzić dziecko na 2 godziny zabawy (koszt 20 zł)&lt;/p&gt;
+&lt;p&gt;!!! ZAPRASZAMY!!!&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Zajęcia otwarte</title>
       <link>//articles/otwarte/</link>
