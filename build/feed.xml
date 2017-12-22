@@ -5,9 +5,31 @@
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
-    <pubDate>Sat, 16 Dec 2017 21:00:00 +0100</pubDate>
+    <pubDate>Fri, 22 Dec 2017 19:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Zapisy na rok 2018</title>
+      <link>//articles/zapisy/</link>
+      <pubDate>Fri, 22 Dec 2017 19:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/zapisy/</guid>
+      <author></author>
+      <description>&lt;p&gt;KLOCKOLANDIA ma przyjemność ogłosić rozpoczęcie zapisów i zakup karnetów na styczeń, luty, marzec…. ￼2018 :)&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&quot;jak-si-zapisa-&quot;&gt;Jak się zapisać?&lt;/h4&gt;
+&lt;p&gt;Zapisów można dokonać drogą telefoniczną, mailową, Messengerem lub osobiście w KLOCKOLANDII od poniedziałku do piątku w godzinach od 16.00 - 18.00.
+Rodzicu wybierz dzień tygodnia od poniedziałku do czwartku, zdecyduj się na karnet miesięczny, trzymiesięczny lub półroczny,
+zapisz swoje dziecko/dzieci. Pamiętaj, że rodzeństwo otrzymuje zniżki ￼:)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pierwszych dziesięciu zapisanych klockomaniaków otrzyma od nas drobny upominek ￼:)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A jeśli nie masz jeszcze pomysłu na &lt;strong&gt;urodzinki&lt;/strong&gt; to w piątki możesz u NAS wynająć salkę na wyłączność. Na solenizanta i gości czekają konkursy, zabawa i radość budowania przez 2 godziny ￼:)&lt;/p&gt;
+&lt;p&gt;ZAPRASZAMY!!!&lt;/p&gt;
+&lt;h4 id=&quot;gdzie-nas-znajdziesz-&quot;&gt;Gdzie nas znajdziesz?&lt;/h4&gt;
+&lt;p&gt;Na osiedlu Dąbrówki przy ul. Grunwaldzkiej 46 w Rybniku. Budujemy z klocków na pierwszym piętrze pawilonu w jego narożnej części od strony placu zabaw ￼:)
+Kto nas znajdzie, ten nie będzie się nudził !&lt;/p&gt;
+&lt;h4 id=&quot;wi-cej&quot;&gt;Więcej&lt;/h4&gt;
+&lt;p&gt;Dodatkowe informacje znajdziesz w &lt;a href=&quot;/articles/cennik&quot;&gt;naszym cenniku&lt;/a&gt; oraz &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Zajęcia przed Świętami</title>
       <link>//articles/swieta/</link>
@@ -53,29 +75,6 @@ telefonicznie. Następnie należy przynieść ze sobą dobry humor i przez godzi
 </description>
     </item>
     <item>
-      <title>Zapisy do grup</title>
-      <link>//articles/zapisy/</link>
-      <pubDate>Sun, 03 Dec 2017 19:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/zapisy/</guid>
-      <author></author>
-      <description>&lt;p&gt;Mamy przyjemność ogłosić, że począwszy od dziś istnieje możliwość zapisywania dzieci w wieku od 6 lat na nasze zajęcia!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu - lego, klocki bamp, “wafle”, klocki “cegły” czy klocki “build and play” oraz inne atrakcje.
-Zajęcia w KLOCKOLANDII odbywają się w grupach, raz w tygodniu, w godzinach 16.00 – 18.00. 
-2 godziny (120 minut) w wybranym przez rodzica dniu tygodnia - od poniedziałku do czwartku.
-W piątki oferujemy możliwość wynajęcia salki na urodzinki ￼:)&lt;/p&gt;
-&lt;h4 id=&quot;uwaga&quot;&gt;Uwaga&lt;/h4&gt;
-&lt;p&gt;U nas nie podpisujesz umowy.&lt;/p&gt;
-&lt;p&gt;Możesz wykupić karnet:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;półroczny&lt;/li&gt;
-&lt;li&gt;trzymiesięczny &lt;/li&gt;
-&lt;li&gt;indywidualny karnet miesięczny&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Dodatkowe informacje znajdziesz w &lt;a href=&quot;/articles/cennik&quot;&gt;naszym cenniku&lt;/a&gt; oraz &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Witamy w Klockolandii!</title>
       <link>//articles/witamy/</link>
       <pubDate>Sun, 03 Dec 2017 15:00:00 +0100</pubDate>
@@ -115,6 +114,19 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 </description>
     </item>
     <item>
+      <title>Dokumenty do pobrania</title>
+      <link>//articles/dokumenty/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dokumenty/</guid>
+      <author></author>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
       <title>Kontakt</title>
       <link>//articles/kontakt/</link>
       <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
@@ -131,21 +143,10 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 &lt;p&gt;+48 601 595 201&lt;/p&gt;
 &lt;h5 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h5&gt;
 &lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
+&lt;h5 id=&quot;jak-nas-znale-&quot;&gt;Jak nas znaleźć&lt;/h5&gt;
+&lt;p&gt;Klockolandia znajduje się na osiedlu Dąbrówki przy ul. Grunwaldzkiej 46 w Rybniku. Budujemy z klocków na pierwszym piętrze pawilonu w jego narożnej części od strony placu zabaw ￼:) Kto nas znajdzie, ten nie będzie się nudził !&lt;/p&gt;
 &lt;h5 id=&quot;mapa&quot;&gt;Mapa&lt;/h5&gt;
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.5426746159837!2d18.51784951571852!3d50.09484867942787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47114f3a482d0565%3A0xf5e2ba306c1dd48e!2sKlockolandia+Rybnik!5e0!3m2!1sen!2spl!4v1512308575819&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    <item>
-      <title>Dokumenty do pobrania</title>
-      <link>//articles/dokumenty/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/dokumenty/</guid>
-      <author></author>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
   </channel>
