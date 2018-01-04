@@ -5,9 +5,23 @@
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
-    <pubDate>Mon, 25 Dec 2017 19:00:00 +0100</pubDate>
+    <pubDate>Thu, 04 Jan 2018 16:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Oferta dla firm</title>
+      <link>//articles/dlafirm/</link>
+      <pubDate>Thu, 04 Jan 2018 16:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dlafirm/</guid>
+      <author></author>
+      <description>&lt;p&gt;Organizujesz imprezy integracyjne dla swoich pracowników i ich rodzin? Mamy dla Ciebie ofertę!
+Przyjedziemy z klockami pod wskazane miejsce!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Możesz na takiej imprezie sprawić dzieciom (i dorosłym!) prawdziwą niespodziankę. Zabawa klockami nigdy się nie nudzi. Konkursy, zabawy i radość budowania urozmaici dzień przede wszystkim dzieciom a rodzicom pozwoli na chwilę odpoczynku.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/articles/kontakt&quot;&gt;Skontaktuj się z nami&lt;/a&gt; telefonicznie lub mailowo aby poznać szczegóły oferty.&lt;/p&gt;
+&lt;p&gt;ZAPRASZAMY 🙂&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Zajęcia po Świętach</title>
       <link>//articles/zapisy/</link>
@@ -112,36 +126,6 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 </description>
     </item>
     <item>
-      <title>Dokumenty do pobrania</title>
-      <link>//articles/dokumenty/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/dokumenty/</guid>
-      <author></author>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Cennik</title>
-      <link>//articles/cennik/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/cennik/</guid>
-      <author></author>
-      <description>&lt;h4 id=&quot;dost-pne-karnety&quot;&gt;Dostępne karnety&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;półroczny (80 zł/miesiąc) 480 zł&lt;/li&gt;
-&lt;li&gt;trzymiesięczny (85 zł/miesiąc) 225 zł&lt;/li&gt;
-&lt;li&gt;indywidualny karnet miesięczny 90zł&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h4&gt;
-&lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
-&lt;p&gt;Więcej informacji znajdziesz w &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Kontakt</title>
       <link>//articles/kontakt/</link>
       <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
@@ -162,6 +146,38 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 &lt;p&gt;Klockolandia znajduje się na osiedlu Dąbrówki przy ul. Grunwaldzkiej 46 w Rybniku. Budujemy z klocków na pierwszym piętrze pawilonu w jego narożnej części od strony placu zabaw ￼:) Kto nas znajdzie, ten nie będzie się nudził !&lt;/p&gt;
 &lt;h5 id=&quot;mapa&quot;&gt;Mapa&lt;/h5&gt;
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2559.5426746159837!2d18.51784951571852!3d50.09484867942787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47114f3a482d0565%3A0xf5e2ba306c1dd48e!2sKlockolandia+Rybnik!5e0!3m2!1sen!2spl!4v1512308575819&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    <item>
+      <title>Cennik</title>
+      <link>//articles/cennik/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/cennik/</guid>
+      <author></author>
+      <description>&lt;h4 id=&quot;dost-pne-karnety&quot;&gt;Dostępne karnety&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;półroczny (80 zł/miesiąc) 480 zł&lt;/li&gt;
+&lt;li&gt;trzymiesięczny (85 zł/miesiąc) 225 zł&lt;/li&gt;
+&lt;li&gt;indywidualny karnet miesięczny 90zł&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;oferta-fla-firm&quot;&gt;Oferta fla firm&lt;/h4&gt;
+&lt;p&gt;Współpracujemy z firmami w ramach organizacji imprez z udziałem dzieci. Więcej informacji znajdzesz &lt;a href=&quot;/articles/dlafirm/&quot;&gt;w artykule&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h4&gt;
+&lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
+&lt;p&gt;Więcej informacji znajdziesz w &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Dokumenty do pobrania</title>
+      <link>//articles/dokumenty/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dokumenty/</guid>
+      <author></author>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>

@@ -11,6 +11,10 @@ template: page.jade
 * trzymiesięczny (85 zł/miesiąc) 225 zł
 * indywidualny karnet miesięczny 90zł
 
+#### Oferta fla firm
+
+Współpracujemy z firmami w ramach organizacji imprez z udziałem dzieci. Więcej informacji znajdzesz [w artykule](/articles/dlafirm/).
+
 #### Numer konta
 
 34 1050 1344 1000 0092 4446 7602
