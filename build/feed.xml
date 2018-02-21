@@ -5,9 +5,23 @@
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
-    <pubDate>Sun, 14 Jan 2018 21:00:00 +0100</pubDate>
+    <pubDate>Wed, 21 Feb 2018 16:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Zmiana w poniedziałki</title>
+      <link>//articles/poniedzialki/</link>
+      <pubDate>Wed, 21 Feb 2018 16:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/poniedzialki/</guid>
+      <author></author>
+      <description>&lt;p&gt;Teraz w KLOCKOLANDII w każde poniedziałki można wejść bez zapisywania. Wykup na miejscu godzinkę lub dwie godzinki zabawy klockami dla Twojego dziecka. Wybór należy do Ciebie.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Godziny otwarcia od 16.00 do 19.00.
+12 zł/h
+Przyjdź, zobacz, pobaw się z dzieckiem !&lt;/p&gt;
+&lt;p&gt;KLOCKOLANDIA ZAPRASZA&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Urodziny w piątki</title>
       <link>//articles/urodziny/</link>
@@ -192,19 +206,6 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 </description>
     </item>
     <item>
-      <title>Dokumenty do pobrania</title>
-      <link>//articles/dokumenty/</link>
-      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/dokumenty/</guid>
-      <author></author>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
       <title>Cennik</title>
       <link>//articles/cennik/</link>
       <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
@@ -221,6 +222,19 @@ Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/
 &lt;h4 id=&quot;numer-konta&quot;&gt;Numer konta&lt;/h4&gt;
 &lt;p&gt;34 1050 1344 1000 0092 4446 7602&lt;/p&gt;
 &lt;p&gt;Więcej informacji znajdziesz w &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Dokumenty do pobrania</title>
+      <link>//articles/dokumenty/</link>
+      <pubDate>Fri, 01 Dec 2017 15:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/dokumenty/</guid>
+      <author></author>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulamin klockolandii&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Oswiadczenie%20o%20chorobach%20i%20zgoda%20na%20wykorzystanie%20wizerunku.pdf&quot;&gt;Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/pliki/Upowaznienie%20do%20odbioru.pdf&quot;&gt;Upoważnienie do odbioru&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
   </channel>
