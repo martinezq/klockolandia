@@ -1,0 +1,15 @@
+
+extends layout
+
+block content
+  script(src='/js/pure-js-lightbox.min.js')
+  
+  ul#gallery.pure-js-lightbox-container
+    each image in contents.images.cover
+      li
+        a(href=image.url)
+          img(src=image.url)      
+  
+  script.
+    var gallery = new pureJSLightBox();
+

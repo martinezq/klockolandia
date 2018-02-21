@@ -5,6 +5,7 @@
   "dependencies": {
     "moment": "2.3.x",
     "node-static": "^0.7.10",
+    "node-thumbnail": "^0.13.0",
     "typogr": "0.5.x",
     "underscore": "1.4.x"
   },

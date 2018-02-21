@@ -2,29 +2,53 @@
 extends layout
 
 block content
-  block intro
-    div.intro
-      !=contents['intro.md'].html
-  each article in articles
-    if article.template === 'article.jade'
-      article.article.intro
-        header
-          p.date
-            span= moment.utc(article.date).lang('pl').format('DD. MMMM YYYY')
-          h2
-            a(href=article.url)= article.title
-        section.content
-          if article.intro.length > 0
-            != typogr(article.intro).typogrify()
-          if article.hasMore
-            p.more
-              a(href=article.url) Czytaj więcej
 
-block prepend footer
-  div.nav
-    if prevPage
-      a(href=prevPage.url) &laquo; Nowsze wpisy
-    else
-      a(href='/archive.html') &laquo; Wszystkie wpisy
-    if nextPage
-      a(href=nextPage.url) Następna strona &raquo;
+  section#banner
+    div.content
+      h1 Witamy w Klockolandii!
+      p Zapraszamy do aktywnej i twórczej zabawy dzieci od 6 roku życia. Popołudniowe zajęcia w ok. 10-osobowych grupach. Zajęcia raz w tygodniu po 2 godziny (120 minut). Możliwość wyboru grupy w zależności od dnia tygodnia - od poniedziałku do czwartku.
+      ul.actions
+        li
+          a.button.scrolly(href="#news") Co nowego
+        li
+          a.button.scrolly(href="#prices") Cennik
+        li
+          a.button.scrolly(href="#contact") Kontakt 
+        li
+          a.button.scrolly(href="#documents") Dokumenty
+
+  section#news.wrapper
+    div.inner.flex.flex-3
+      each article in articles
+        if article.template === 'article.jade'
+          div.flex-item.box
+            div.image.fit
+              img(src=article.url + "image.png")
+            div.content
+              h3
+                a(href=article.url)= article.title
+              p
+                if article.intro.length > 0
+                  != typogr(article.intro).typogrify()
+                if article.hasMore
+                  p.more
+                    a(href=article.url) Czytaj więcej
+    div.inner
+      if prevPage
+        a(href=prevPage.url) &laquo; Nowsze wpisy
+      else
+        a(href='/archive.html') &laquo; Wszystkie wpisy
+      if nextPage
+        a(href=nextPage.url) Następna strona &raquo;
+
+  section#prices.wrapper.style1
+    div.inner
+      !=contents['prices.md'].html
+
+  section#contact.wrapper
+    div.inner
+      !=contents['contact.md'].html
+
+  section#documents.wrapper
+    div.inner
+      !=contents['documents.md'].html
