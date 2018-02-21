@@ -13,6 +13,8 @@ template: page.jade
 <span class="icon fa-envelope">&nbsp;[klockolandia.rybnik@gmail.com](mailto:klockolandia.rybnik@gmail.com)<br>
 <span class="icon fa-facebook">&nbsp;[@klockolandiarybnikpl](https://www.facebook.com/klockolandiarybnikpl/)
 
+### Konto bankowe
+
 <span class="icon fa-bank"></span>&nbsp;34 1050 1344 1000 0092 4446 7602
 
 

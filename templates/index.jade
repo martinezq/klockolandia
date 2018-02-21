@@ -5,6 +5,8 @@ block content
 
   section#banner
     div.content
+      a(href="/")
+        img(src="/images/logo.png")
       h1 Witamy w Klockolandii!
       p Zapraszamy do aktywnej i twórczej zabawy dzieci od 6 roku życia. Popołudniowe zajęcia w ok. 10-osobowych grupach. Zajęcia raz w tygodniu po 2 godziny (120 minut). Możliwość wyboru grupy w zależności od dnia tygodnia - od poniedziałku do czwartku.
       ul.actions
@@ -23,23 +25,25 @@ block content
         if article.template === 'article.jade'
           div.flex-item.box
             div.image.fit
-              img(src=article.url + "image.png")
+              a(href=article.url)
+                img(src=article.url + "image.png")
             div.content
               h3
                 a(href=article.url)= article.title
-              p
-                if article.intro.length > 0
-                  != typogr(article.intro).typogrify()
-                if article.hasMore
-                  p.more
-                    a(href=article.url) Czytaj więcej
-    div.inner
-      if prevPage
-        a(href=prevPage.url) &laquo; Nowsze wpisy
-      else
-        a(href='/archive.html') &laquo; Wszystkie wpisy
-      if nextPage
-        a(href=nextPage.url) Następna strona &raquo;
+              if article.intro.length > 0
+                != typogr(article.intro).typogrify()
+              if article.hasMore
+                a(href=article.url) Czytaj więcej
+    
+    div.inner.flex.flex-3
+      nav.logo.left
+        if prevPage
+          a.button.alt(href=prevPage.url + "#news") &laquo; Nowsze
+        else
+          a.button.alt(href='/archive.html') &laquo; Wszystkie aktualności
+      nav.right
+        if nextPage
+          a.button.alt(href=nextPage.url + "#news") Starsze &raquo;
 
   section#prices.wrapper.style1
     div.inner

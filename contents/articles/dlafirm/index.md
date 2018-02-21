@@ -12,6 +12,6 @@ Przyjedziemy z klockami pod wskazane miejsce!
 
 Możesz na takiej imprezie sprawić dzieciom (i dorosłym!) prawdziwą niespodziankę. Zabawa klockami nigdy się nie nudzi. Konkursy, zabawy i radość budowania urozmaici dzień przede wszystkim dzieciom a rodzicom pozwoli na chwilę odpoczynku.
 
-[Skontaktuj się z nami](/articles/kontakt) telefonicznie lub mailowo aby poznać szczegóły oferty.
+[Skontaktuj się z nami](/#contact) telefonicznie lub mailowo aby poznać szczegóły oferty.
 
 ZAPRASZAMY 🙂

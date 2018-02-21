@@ -4,13 +4,21 @@ extends layout
 block prepend title
   | #{ page.title + ' - '}
 
-block content
-  article.article
-    header
-      h2
-        span= page.title
-    section.content!= typogr(page.html).typogrify()
 
-block prepend footer
-  div.nav
-    a(href=contents.index.url) &laquo; Powrót
+
+block content
+  section#banner
+    div.content
+      header.align-center
+        img(src=page.url + "image.png")
+        br
+        br
+        h1= page.title
+  section#content  
+    div.inner
+      p!= typogr(page.html).typogrify()
+
+  div.align-center
+    a.button.scrolly(href="/#news") Powrót
+    br
+    &nbsp;

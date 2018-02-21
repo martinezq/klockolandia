@@ -1614,7 +1614,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #767d85;
+		color: #000;
 		font-family: "Open Sans", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -2630,7 +2630,7 @@
 		}
 
 		.wrapper.style1 {
-			background: #f6755e;
+			background: #555555;
 			color: #fcdcd6;
 		}
 
@@ -2661,7 +2661,7 @@
 /* Header */
 
 	body {
-		padding-top: 6em;
+		padding-top: 0em;
 	}
 
 	#header {
@@ -2919,7 +2919,7 @@
 /* Banner */
 
 	#banner {
-		padding: 14em 0 12em 0;
+		padding: 6em 0 4em 0;
 		background-image: url(../../images/banner.jpg);
 		background-size: cover;
 		background-position: center top;
@@ -3208,4 +3208,4 @@
 					padding: 2em 0;
 				}
 
-		}
+        }

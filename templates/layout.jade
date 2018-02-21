@@ -20,19 +20,8 @@ html(lang='pl')
       link(rel="mask-icon", href="/safari-pinned-tab.svg", color="#5bbad5")
   body(class=bodyclass)
 
-    header#header
-      nav.logo.left
-        a.icon(href="/").fa-home
-      nav.logo.right
-        a.icon(href="/#news").fa-twitter
-        a.icon(href="/#prices").fa-dollar
-        a.icon(href="/#contact").fa-envelope
-        a.icon(href="/#documents").fa-file.scrolly
-
-    div#content
-      div.content-wrap
-        block content
-          h2 Welcome to zombocom!
+    block content
+      h2 Welcome to zombocom!
 
     footer#footer
       div.inner
