@@ -10,13 +10,14 @@ block content
   section#banner
     div.content
       header.align-center
-        img(src=page.url + "image.png")
-        br
-        br
         h1= page.title
   section#content  
     div.inner
       p!= typogr(page.html).typogrify()
+
+  section#image
+    span.fit.image.align-center
+      img(src=page.url + "image.png" style="max-width: 714px; display: initial;") 
 
   div.align-center
     a.button.scrolly(href="/#news") Powrót
