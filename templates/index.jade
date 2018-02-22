@@ -14,6 +14,8 @@ block content
         li
           a.button.scrolly(href="#prices") Cennik
         li
+          a.button.scrolly(href="#gallery") Galeria          
+        li
           a.button.scrolly(href="#contact") Kontakt 
         li
           a.button.scrolly(href="#documents") Dokumenty
@@ -52,10 +54,15 @@ block content
     div.inner
       !=contents['prices.md'].html
 
-  section#contact.wrapper
+  section#gallery.wrapper
+    div.inner
+      !=contents['gallery.md'].html
+
+  section#contact.wrapper.style1
     div.inner
       !=contents['contact.md'].html
 
   section#documents.wrapper
     div.inner
       !=contents['documents.md'].html
+
