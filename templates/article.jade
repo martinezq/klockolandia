@@ -10,7 +10,11 @@ block content
   section#banner
     div.content
       header.align-center
-        h1= page.title
+      a(href="/")
+        img(src="/images/logo.png")   
+      br
+      br   
+      h1= page.title
   section#content  
     div.inner
       p!= typogr(page.html).typogrify()

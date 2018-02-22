@@ -5,9 +5,23 @@
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
-    <pubDate>Sun, 14 Jan 2018 21:00:00 +0100</pubDate>
+    <pubDate>Wed, 21 Feb 2018 16:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Zmiana w poniedziałki</title>
+      <link>//articles/poniedzialki/</link>
+      <pubDate>Wed, 21 Feb 2018 16:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/poniedzialki/</guid>
+      <author></author>
+      <description>&lt;p&gt;Teraz w KLOCKOLANDII w każde poniedziałki można wejść bez zapisywania. Wykup na miejscu godzinkę lub dwie godzinki zabawy klockami dla Twojego dziecka. Wybór należy do Ciebie.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Godziny otwarcia od 16.00 do 19.00.
+12 zł/h
+Przyjdź, zobacz, pobaw się z dzieckiem !&lt;/p&gt;
+&lt;p&gt;KLOCKOLANDIA ZAPRASZA&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Ferie 2018</title>
       <link>//articles/ferie/</link>
