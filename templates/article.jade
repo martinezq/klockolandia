@@ -12,11 +12,13 @@ block content
       header.align-center
       a(href="/")
         img(src="/images/logo.png")   
-      br
-      br   
-      h1= page.title
-  section#content  
+      
+  section#content
     div.inner
+      header.align-center
+        br
+        br
+        h1= page.title
       p!= typogr(page.html).typogrify()
 
   section#image
