@@ -1,40 +1,27 @@
 {
-  "locals": {
-    "url": "/",
-    "name": "Klockolandia",
-    "owner": "Klockolandia",
-    "description": "Zapraszamy do aktywnej i twórczej zabawy!",
-    "img": "/images/logo.png",
-    "navs": [{
-      "url": "/",
-      "title": "Start"
-    }, {
-      "url": "/articles/dokumenty",
-      "title": "Dokumenty"
-    }, {
-      "url": "/articles/cennik",
-      "title": "Cennik"
-    }, {
-      "url": "/articles/kontakt",
-      "title": "Kontakt"
-    }]
-  },
-  "plugins": [
-    "./plugins/paginator.coffee"
-  ],
-  "require": {
-    "moment": "moment",
-    "_": "underscore",
-    "typogr": "typogr"
-  },
-  "jade": {
-    "pretty": true
-  },
-  "markdown": {
-    "smartLists": true,
-    "smartypants": true
-  },
-  "paginator": {
-    "perPage": 5
-  }
+    "locals": {
+        "url": "/",
+        "name": "Klockolandia",
+        "owner": "Klockolandia",
+        "description": "Zapraszamy do aktywnej i twórczej zabawy!",
+        "img": "/images/logo.png"
+    },
+    "plugins": [
+        "./plugins/paginator.coffee"
+    ],
+    "require": {
+        "moment": "moment",
+        "_": "underscore",
+        "typogr": "typogr"
+    },
+    "jade": {
+        "pretty": true
+    },
+    "markdown": {
+        "smartLists": true,
+        "smartypants": true
+    },
+    "paginator": {
+        "perPage": 3
+    }
 }
