@@ -5,9 +5,20 @@
     <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
-    <pubDate>Wed, 21 Feb 2018 16:00:00 +0100</pubDate>
+    <pubDate>Tue, 20 Mar 2018 19:00:00 +0100</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Wielkanocne zmiany</title>
+      <link>//articles/wielkanoc2018/</link>
+      <pubDate>Tue, 20 Mar 2018 19:00:00 +0100</pubDate>
+      <guid isPermaLink="true">//articles/wielkanoc2018/</guid>
+      <author></author>
+      <description>&lt;p&gt;28 i 29 marca (środa i czwartek) - przed Świętami Wielkanocnymi - zajęcia odbywają się według stałego planu.
+Nieobecni odrobią w kolejne dni.&lt;/p&gt;
+&lt;p&gt;30 marca oraz 2 kwietnia KLOCKOLANDIA będzie NIECZYNNA.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Zmiana w poniedziałki</title>
       <link>//articles/poniedzialki/</link>
