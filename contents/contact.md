@@ -7,7 +7,7 @@ template: page.jade
 
 ## Kontakt
 
-<span class="icon fa-map-marker">&nbsp;ul. Grunwaldzka 61, 44-210 Rybnik<br>
+<span class="icon fa-map-marker">&nbsp;ul. Grunwaldzka 46, 44-210 Rybnik<br>
 <span class="icon fa-phone"></span>&nbsp;+48 601 595 201
 
 <span class="icon fa-envelope">&nbsp;[klockolandia.rybnik@gmail.com](mailto:klockolandia.rybnik@gmail.com)<br>
