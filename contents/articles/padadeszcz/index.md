@@ -7,7 +7,7 @@ template: article.jade
 
 Deszcz pada.
 Nuda w domu. 
-Rodzicu, chcesz iść na zakupy? 
+Rodzicu chcesz iść na zakupy? 
 Mamo a może chcesz odpocząć, porozmawiać z koleżanką przy kawie w spokoju?
 Przyprowadź swoje dziecko do KLOCKOLANDII na 2 godzinki.
 
