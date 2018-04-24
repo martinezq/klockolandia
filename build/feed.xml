@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Klockolandia</title>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"></atom:link>
-    <link>/</link>
+    <atom:link href="http://www.klockolandia.rybnik.pl/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://www.klockolandia.rybnik.pl</link>
     <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
     <pubDate>Mon, 16 Apr 2018 21:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Urodziny dla dzieci</title>
-      <link>//articles/urodziny2/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/urodziny2/</link>
       <pubDate>Mon, 16 Apr 2018 21:00:00 +0200</pubDate>
-      <guid isPermaLink="true">//articles/urodziny2/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/urodziny2/</guid>
       <author></author>
       <description>&lt;p&gt;W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. Będzie to dla niego i jego przyjaciół niezapomniany czas, wypełniony twórczą zabawą klockami, ciekawymi konkursami i odrobiną szaleństwa.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>Poniedziałki bez zapisywania</title>
-      <link>//articles/padadeszcz/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/padadeszcz/</link>
       <pubDate>Mon, 16 Apr 2018 19:00:00 +0200</pubDate>
-      <guid isPermaLink="true">//articles/padadeszcz/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/padadeszcz/</guid>
       <author></author>
       <description>&lt;p&gt;Deszcz pada.
 Nuda w domu. 
@@ -55,9 +55,9 @@ Przyprowadź swoje dziecko do KLOCKOLANDII na 2 godzinki.&lt;/p&gt;
     </item>
     <item>
       <title>Wielkanocne zmiany</title>
-      <link>//articles/wielkanoc2018/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/wielkanoc2018/</link>
       <pubDate>Tue, 20 Mar 2018 19:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/wielkanoc2018/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/wielkanoc2018/</guid>
       <author></author>
       <description>&lt;p&gt;28 i 29 marca (środa i czwartek) - przed Świętami Wielkanocnymi - zajęcia odbywają się według stałego planu.
 Nieobecni odrobią w kolejne dni.&lt;/p&gt;
@@ -66,9 +66,9 @@ Nieobecni odrobią w kolejne dni.&lt;/p&gt;
     </item>
     <item>
       <title>Zmiana w poniedziałki</title>
-      <link>//articles/poniedzialki/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/poniedzialki/</link>
       <pubDate>Wed, 21 Feb 2018 16:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/poniedzialki/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/poniedzialki/</guid>
       <author></author>
       <description>&lt;p&gt;Teraz w KLOCKOLANDII w każde poniedziałki można wejść bez zapisywania. Wykup na miejscu godzinkę lub dwie godzinki zabawy klockami dla Twojego dziecka. Wybór należy do Ciebie.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -80,9 +80,9 @@ Przyjdź, zobacz, pobaw się z dzieckiem !&lt;/p&gt;
     </item>
     <item>
       <title>Ferie 2018</title>
-      <link>//articles/ferie/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/ferie/</link>
       <pubDate>Sun, 14 Jan 2018 21:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/ferie/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/ferie/</guid>
       <author></author>
       <description>&lt;p&gt;Zbliżają się FERIE ZIMOWE. Od 29 stycznia do 9 lutego 2018 r. KLOCKOLANDIA zawita ze swoimi klockami w różne miejsca Rybnika 🙂&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -109,9 +109,9 @@ Obowiązują zapisy w Halo Rybnik! 🙂&lt;/p&gt;
     </item>
     <item>
       <title>Urodziny w piątki</title>
-      <link>//articles/urodziny/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/urodziny/</link>
       <pubDate>Sun, 14 Jan 2018 21:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/urodziny/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/urodziny/</guid>
       <author></author>
       <description>&lt;p&gt;W piątkowe popołudnie KLOCKOLANDIA na urodzinki Twojego dziecka jest rezerwowana na wyłączność. Od godziny 16.00 – 18.00 trwa zabawa klockami konstrukcyjnymi, mecze w piłkarzyki i inne atrakcje 🙂&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -123,23 +123,23 @@ ZAPRASZAMY&lt;/p&gt;
     </item>
     <item>
       <title>Oferta dla firm</title>
-      <link>//articles/dlafirm/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/dlafirm/</link>
       <pubDate>Thu, 04 Jan 2018 16:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/dlafirm/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/dlafirm/</guid>
       <author></author>
       <description>&lt;p&gt;Organizujesz imprezy integracyjne dla swoich pracowników i ich rodzin? Mamy dla Ciebie ofertę!
 Przyjedziemy z klockami pod wskazane miejsce!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Możesz na takiej imprezie sprawić dzieciom (i dorosłym!) prawdziwą niespodziankę. Zabawa klockami nigdy się nie nudzi. Konkursy, zabawy i radość budowania urozmaici dzień przede wszystkim dzieciom a rodzicom pozwoli na chwilę odpoczynku.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/#contact&quot;&gt;Skontaktuj się z nami&lt;/a&gt; telefonicznie lub mailowo aby poznać szczegóły oferty.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.klockolandia.rybnik.pl/#contact&quot;&gt;Skontaktuj się z nami&lt;/a&gt; telefonicznie lub mailowo aby poznać szczegóły oferty.&lt;/p&gt;
 &lt;p&gt;ZAPRASZAMY 🙂&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Zajęcia po Świętach</title>
-      <link>//articles/zapisy/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/zapisy/</link>
       <pubDate>Mon, 25 Dec 2017 19:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/zapisy/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/zapisy/</guid>
       <author></author>
       <description>&lt;p&gt;W okresie od 27. grudnia (środa) do 29. grudnia (piątek) budujemy od 16.00 do 18.00.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -152,9 +152,9 @@ ZAPRASZAMY&lt;/p&gt;
     </item>
     <item>
       <title>Zapisy na rok 2018</title>
-      <link>//articles/poswietach/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/poswietach/</link>
       <pubDate>Fri, 22 Dec 2017 19:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/poswietach/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/poswietach/</guid>
       <author></author>
       <description>&lt;p&gt;KLOCKOLANDIA ma przyjemność ogłosić rozpoczęcie zapisów i zakup karnetów na styczeń, luty, marzec…. ￼2018 :)&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -169,14 +169,14 @@ zapisz swoje dziecko/dzieci. Pamiętaj, że rodzeństwo otrzymuje zniżki ￼:)&
 &lt;p&gt;Na osiedlu Dąbrówki przy ul. Grunwaldzkiej 46 w Rybniku. Budujemy z klocków na pierwszym piętrze pawilonu w jego narożnej części od strony placu zabaw ￼:)
 Kto nas znajdzie, ten nie będzie się nudził !&lt;/p&gt;
 &lt;h3 id=&quot;wi-cej&quot;&gt;Więcej&lt;/h3&gt;
-&lt;p&gt;Dodatkowe informacje znajdziesz w &lt;a href=&quot;/#prices&quot;&gt;naszym cenniku&lt;/a&gt; oraz &lt;a href=&quot;/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dodatkowe informacje znajdziesz w &lt;a href=&quot;http://www.klockolandia.rybnik.pl/#prices&quot;&gt;naszym cenniku&lt;/a&gt; oraz &lt;a href=&quot;http://www.klockolandia.rybnik.pl/pliki/Regulamin%20klockolandii.pdf&quot;&gt;Regulaminie klockolandii&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     <item>
       <title>Zajęcia przed Świętami</title>
-      <link>//articles/swieta/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/swieta/</link>
       <pubDate>Sat, 16 Dec 2017 21:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/swieta/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/swieta/</guid>
       <author></author>
       <description>&lt;p&gt;Przyprowadź do nas swoje dziecko na fajną zabawę 
 klockami - załatw w tym czasie swoje sprawy!&lt;/p&gt;
@@ -190,9 +190,9 @@ Możesz BEZ ZAPISYWANIA przyprowadzić dziecko na 2 godziny zabawy (koszt 20 zł
     </item>
     <item>
       <title>Zajęcia otwarte</title>
-      <link>//articles/otwarte/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/otwarte/</link>
       <pubDate>Wed, 06 Dec 2017 21:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/otwarte/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/otwarte/</guid>
       <author></author>
       <description>&lt;p&gt;Mamy przyjemność zaprosić rodziców z dziećmi na bezpłatne zajęcia w KLOCKOLANDII.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -212,14 +212,14 @@ telefonicznie. Następnie należy przynieść ze sobą dobry humor i przez godzi
     </item>
     <item>
       <title>Witamy w Klockolandii!</title>
-      <link>//articles/witamy/</link>
+      <link>http://www.klockolandia.rybnik.pl/articles/witamy/</link>
       <pubDate>Sun, 03 Dec 2017 15:00:00 +0100</pubDate>
-      <guid isPermaLink="true">//articles/witamy/</guid>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/witamy/</guid>
       <author></author>
       <description>&lt;p&gt;Popołudniowa opieka i zabawa w grupach. 
 Nauka kreatywności poprzez zabawy klockami konstrukcyjnymi różnego typu.&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/cover6.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.klockolandia.rybnik.pl/images/cover6.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Dla dzieci mamy:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;lego&lt;/li&gt;

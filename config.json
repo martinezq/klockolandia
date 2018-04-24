@@ -1,13 +1,15 @@
 {
     "locals": {
-        "url": "/",
+        "url": "http://www.klockolandia.rybnik.pl",
         "name": "Klockolandia",
         "owner": "Klockolandia",
         "description": "Zapraszamy do aktywnej i twórczej zabawy!",
         "img": "/images/logo.png"
     },
     "plugins": [
-        "./plugins/paginator.coffee"
+        "./plugins/paginator.coffee",
+        "wintersmith-contents",
+        "wintersmith-sitemap"
     ],
     "require": {
         "moment": "moment",
