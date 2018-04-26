@@ -1,9 +1,9 @@
 {
     "locals": {
         "url": "http://www.klockolandia.rybnik.pl",
-        "name": "Klockolandia",
+        "name": "Klockolandia Rybnik",
         "owner": "Klockolandia",
-        "description": "Zapraszamy do aktywnej i twórczej zabawy!",
+        "description": "Rozwój kreatywności, zabawa klockami, zajęcia popołudniowe, urodziny dla dzieci, zajęcia w szkołach i przedszkolach, współpraca w organizacji przyjęć, wesel oraz imprez, półkolonie, przystępne ceny.",
         "img": "/images/logo.png"
     },
     "plugins": [

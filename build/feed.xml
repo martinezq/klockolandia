@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Klockolandia</title>
+    <title>Klockolandia Rybnik</title>
     <atom:link href="http://www.klockolandia.rybnik.pl/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.klockolandia.rybnik.pl</link>
-    <description>Zapraszamy do aktywnej i twórczej zabawy!</description>
+    <description>Rozwój kreatywności, zabawa klockami, zajęcia popołudniowe, urodziny dla dzieci, zajęcia w szkołach i przedszkolach, współpraca w organizacji przyjęć, wesel oraz imprez, półkolonie, przystępne ceny.</description>
     <pubDate>Mon, 16 Apr 2018 21:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Urodziny dla dzieci</title>
+      <title>Urodziny z klockami</title>
       <link>http://www.klockolandia.rybnik.pl/articles/urodziny2/</link>
       <pubDate>Mon, 16 Apr 2018 21:00:00 +0200</pubDate>
       <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/urodziny2/</guid>
