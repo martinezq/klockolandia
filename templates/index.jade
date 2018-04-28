@@ -6,7 +6,7 @@ block content
   section#banner
     div.content
       a(href="/")
-        img(src="/images/logo.png")
+        img(src="/images/logo.png" alt="logo klockolandii")
       h1 Witamy w Klockolandii!
       ul.actions
         li
@@ -29,7 +29,7 @@ block content
           div.flex-item.box
             div.image.fit
               a(href=article.url)
-                img(src=article.url + "image.png")
+                img(src=article.url + "image.jpg" alt=article.title)
             div.content
               h3
                 a(href=article.url)= article.title
