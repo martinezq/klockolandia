@@ -19,7 +19,7 @@ W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. Będzie to dla ni
 
 ### Jakie atrakcje oferujemy
 
-* KLOCKOLANDIA dysponuje różnorodnymi zestawami klocków, począwszy od prostych "cegieł" z których budujemy pełnowymiarowe konstrukcje, po zdalnie sterowane zestawy pociągów. Nie ma znaczenia w jakim wieku jest solenizant czy goście, bo i tak każdy znajdzie coś dla siebie.
+* KLOCKOLANDIA dysponuje różnorodnymi zestawami klocków, począwszy od prostych "cegieł" z których budujemy pełnowymiarowe konstrukcje, po zdalnie sterowane zestawy pociągów LEGO. Nie ma znaczenia w jakim wieku jest solenizant czy goście, bo i tak każdy znajdzie coś dla siebie. Dotyczy to zarówno dziewczynek jak i chłopców.
 * Dla chętnych dzieci oferujemy zajęcia z tworzenia własnych, niepowtarzalnych magnesów na lodówkę.
 * W rozkręceniu imprezy pomoże profesjonalna animatorka, która m.in. zorganizuje dla gości konkurs z nagrodami.
 * Dysponujemy również stołem do piłkarzyków.
