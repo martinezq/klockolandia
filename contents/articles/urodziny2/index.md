@@ -28,3 +28,4 @@ W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. Będzie to dla ni
 
 * Standardowa opłata to 20 zł za dziecko.
 * Przykładowo, jeśli chcesz zorganizować imprezkę urodzinową dla 8 dzieci, zapłacisz 160 zł.
+* Za dodatkową opłatą oferujemy [niepowtarzalny tort urodzinowy](../tort).

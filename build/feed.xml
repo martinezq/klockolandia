@@ -5,9 +5,27 @@
     <atom:link href="http://www.klockolandia.rybnik.pl/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.klockolandia.rybnik.pl</link>
     <description>Rozwój kreatywności, zabawa klockami, zajęcia popołudniowe, urodziny dla dzieci, zajęcia w szkołach i przedszkolach, współpraca w organizacji przyjęć, wesel oraz imprez, półkolonie, przystępne ceny.</description>
-    <pubDate>Tue, 08 May 2018 21:00:00 +0200</pubDate>
+    <pubDate>Tue, 12 Jun 2018 21:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Wyjątkowy tort</title>
+      <link>http://www.klockolandia.rybnik.pl/articles/tort/</link>
+      <pubDate>Tue, 12 Jun 2018 21:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://www.klockolandia.rybnik.pl/articles/tort/</guid>
+      <author></author>
+      <description>&lt;p&gt;Trudno wyobrazić sobie prawdziwe przyjęcie urodzinowe bez tortu. 
+Klasyczne wypieki mają jednak pewne wady: nie wszystkim dzieciom smakują oraz nie wytrzumują wysokich temperatur. 
+Wychodząc naprzeciw oczekiwaniom naszych solenizantów, przygotowaliśmy unikalne rozwiązanie.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;oferta&quot;&gt;Oferta&lt;/h3&gt;
+&lt;p&gt;Oferujemy tort komponowany z różnego rodzaju słodkości, które dzieci znają i uwielbiają. Nie musisz się martwić o zapewnienie dodatkowych słodyczy. Jeśli chcesz aby w torcie znalazły się wybrane przez Ciebie słodycze, za którymi przepada Twoje dziecko, uwzględnimy je. &lt;/p&gt;
+&lt;h3 id=&quot;ile-kosztuje&quot;&gt;Ile kosztuje&lt;/h3&gt;
+&lt;p&gt;Cena tortu ustalana jest na podstawie indywidualnego zamówienia. Orientacyjnie jest to &lt;strong&gt;40zł&lt;/strong&gt; za tort dla &lt;strong&gt;10 dzieci&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Chętnie odpowiemy na wszelkie dodatkowe pytania. Zapraszamy do &lt;a href=&quot;http://www.klockolandia.rybnik.pl/#contact&quot;&gt;kontaktu&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tutaj możesz zapoznać się z &lt;a href=&quot;http://www.klockolandia.rybnik.pl/articles/urodziny2&quot;&gt;pełną ofertą urodzinową&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Zajęcia wakacyjne</title>
       <link>http://www.klockolandia.rybnik.pl/articles/polkolonie2018/</link>
@@ -82,6 +100,7 @@ Dla rodzeństwa oferujemy zniżki.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Standardowa opłata to 20 zł za dziecko.&lt;/li&gt;
 &lt;li&gt;Przykładowo, jeśli chcesz zorganizować imprezkę urodzinową dla 8 dzieci, zapłacisz 160 zł.&lt;/li&gt;
+&lt;li&gt;Za dodatkową opłatą oferujemy &lt;a href=&quot;http://www.klockolandia.rybnik.pl/articles/tort&quot;&gt;niepowtarzalny tort urodzinowy&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
