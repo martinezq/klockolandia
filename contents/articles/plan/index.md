@@ -11,7 +11,7 @@ Zajęcia i imprezy w KLOCKOLANDII organizowane są według planu ustalonego tak,
 
 ### Poniedziałki
 
-Zajęcia niezorganizowane. Chcesz zrobić dziecku jednorazową niespodziankę? Sprawdzić jak wygląda zabawa w KLOCKOLANDII. Przyjdź między godziną 16:00 a 18:00. Cena to tylko **15 zł** za godzinę zabawy
+Zajęcia niezorganizowane. Chcesz zrobić dziecku jednorazową niespodziankę? Sprawdzić jak wygląda zabawa w KLOCKOLANDII? Przyjdź między godziną 16:00 a 18:00. Cena to tylko **15 zł** za godzinę zabawy
 
 ### Środy i czwartki
 
