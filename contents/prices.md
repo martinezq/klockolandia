@@ -6,7 +6,7 @@ view: none
 
 ### Regularne zajęcia
 
-Zajęcia odbywają się raz w tygodniu przez dwie godziny. W trakcie zajęć dzieci rozwijają swoją kreatywność w najlepszy z możliwych sposobów - poprzez zabawę. Odwiedź nas i przekonaj się! Zapisy trwają przez cały czas.
+Zajęcia odbywają się raz w tygodniu przez dwie godziny. Do wyboru grupa środowa lub czwartkowa. W trakcie zajęć dzieci rozwijają swoją kreatywność w najlepszy z możliwych sposobów - poprzez zabawę. Odwiedź nas i przekonaj się! Zapisy trwają przez cały czas.
 
 #### Ceny karnetów
 
@@ -14,9 +14,17 @@ Zajęcia odbywają się raz w tygodniu przez dwie godziny. W trakcie zajęć dzi
 * trzymiesięczny (85 zł/miesiąc) 225 zł
 * indywidualny karnet miesięczny 90zł
 
+### Wejście jednorazowe
+
+Zapraszamy w poniedziałki między 16:00 a 18:00
+
+#### Cena
+
+* 15 zł za godzinę zabawy
+
 ### Oferta urodzinowa
 
-Jeśli szukasz ciekawego pomysłu na imprezę urodzinową dla swojego dziecka, koniecznie zapoznaj się z naszą [ofertą urodzinową](/articles/urodziny2). Cena to tylko 20 zł od dziecka za dwie godziny zabawy. Zadzwoń aby poznać szczegóły.
+Jeśli szukasz ciekawego pomysłu na imprezę urodzinową dla swojego dziecka, koniecznie zapoznaj się z naszą [ofertą urodzinową](/articles/urodziny2). Cena to tylko 23 zł od dziecka za dwie godziny zabawy. Zadzwoń aby poznać szczegóły.
 
 ### Oferta fla firm
 

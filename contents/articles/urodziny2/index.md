@@ -1,11 +1,13 @@
 ---
-title: Urodziny z klockami
+title: Urodziny dla dzieci
 author: Klockolandia
-date: 2018-04-16 21:00
+date: 2018-09-20 21:00
 template: article.jade
 ---
 
-W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. Będzie to dla niego i jego przyjaciół niezapomniany czas, wypełniony twórczą zabawą klockami, ciekawymi konkursami i odrobiną szaleństwa.
+W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. 
+Będzie to dla niego i jego przyjaciół niezapomniany czas twórczej zabawy.
+Cena to tylo **23 zł** za osobę. Zapoznaj się z naszą ofertą.
 
 <span class="more"></span>
 
@@ -26,6 +28,14 @@ W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. Będzie to dla ni
 
 ### Ile to kosztuje
 
-* Standardowa opłata to 20 zł za dziecko.
-* Przykładowo, jeśli chcesz zorganizować imprezkę urodzinową dla 8 dzieci, zapłacisz 160 zł.
+* Opłata wynosi jedynie **23 zł** za dziecko.
+* Przykładowo, jeśli chcesz zorganizować imprezkę urodzinową dla 8 dzieci, zapłacisz **184 zł**.
 * Za dodatkową opłatą oferujemy [niepowtarzalny tort urodzinowy](../tort).
+
+### W jakie dni
+
+Urodziny organizujemy we **wtorki**, **piątki** oraz **soboty**.
+
+### Do pobrania
+
+* [Wzór zaproszenia na urodziny](/pliki/zaproszenie-szablon.pdf)

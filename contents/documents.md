@@ -10,3 +10,4 @@ template: page.jade
 * [Regulamin klockolandii](/pliki/Regulamin klockolandii.pdf)
 * [Oświadczenie o chorobach i zgoda na wykorzystanie wizerunku](/pliki/Oswiadczenie o chorobach i zgoda na wykorzystanie wizerunku.pdf)
 * [Upoważnienie do odbioru](/pliki/Upowaznienie do odbioru.pdf)
+* [Wzór zaproszenia na urodziny](/pliki/zaproszenie-szablon.pdf)

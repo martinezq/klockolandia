@@ -17,7 +17,7 @@ Oferujemy tort komponowany z różnego rodzaju słodkości, które dzieci znają
 
 ### Ile kosztuje
 
-Cena tortu ustalana jest na podstawie indywidualnego zamówienia. Orientacyjnie jest to **40zł** za tort dla **10 dzieci**.
+Cena tortu ustalana jest na podstawie indywidualnego zamówienia. Orientacyjnie jest to **40 zł** za tort dla **10 dzieci**.
 
 Chętnie odpowiemy na wszelkie dodatkowe pytania. Zapraszamy do [kontaktu](/#contact).
 
