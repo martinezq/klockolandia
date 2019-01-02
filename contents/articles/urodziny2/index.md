@@ -7,7 +7,7 @@ template: article.jade
 
 W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. 
 Będzie to dla niego i jego przyjaciół niezapomniany czas twórczej zabawy.
-Cena to tylo **23 zł** za osobę. Zapoznaj się z naszą ofertą.
+Cena to tylo **25 zł** za osobę. Zapoznaj się z naszą ofertą.
 
 <span class="more"></span>
 
@@ -28,8 +28,8 @@ Cena to tylo **23 zł** za osobę. Zapoznaj się z naszą ofertą.
 
 ### Ile to kosztuje
 
-* Opłata wynosi jedynie **23 zł** za dziecko.
-* Przykładowo, jeśli chcesz zorganizować imprezkę urodzinową dla 8 dzieci, zapłacisz **184 zł**.
+* Opłata wynosi jedynie **25 zł** za dziecko.
+* Przykładowo, jeśli chcesz zorganizować imprezę urodzinową dla 8 dzieci, zapłacisz **200 zł**.
 * Za dodatkową opłatą oferujemy [niepowtarzalny tort urodzinowy](../tort).
 
 ### W jakie dni
