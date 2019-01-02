@@ -7,7 +7,7 @@ template: article.jade
 
 W KLOCKOLANDII możesz zorganizować urodziny swojego dziecka. 
 Będzie to dla niego i jego przyjaciół niezapomniany czas twórczej zabawy.
-Cena to tylo **25 zł** za osobę. Zapoznaj się z naszą ofertą.
+Cena to tylko **25 zł** za osobę. Zapoznaj się z naszą ofertą.
 
 <span class="more"></span>
 
