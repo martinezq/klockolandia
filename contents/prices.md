@@ -24,7 +24,7 @@ Zapraszamy w poniedziałki między 16:00 a 18:00
 
 ### Oferta urodzinowa
 
-Jeśli szukasz ciekawego pomysłu na imprezę urodzinową dla swojego dziecka, koniecznie zapoznaj się z naszą [ofertą urodzinową](/articles/urodziny2). Cena to tylko 25 zł od dziecka za dwie godziny zabawy. Zadzwoń aby poznać szczegóły.
+Jeśli szukasz ciekawego pomysłu na imprezę urodzinową dla swojego dziecka, koniecznie zapoznaj się z naszą [ofertą urodzinową](/articles/urodziny2). Cena to tylko 29 zł od dziecka za dwie godziny zabawy. Zadzwoń aby poznać szczegóły.
 
 ### Oferta fla firm
 
